@@ -1,5 +1,6 @@
+Installation 
 
-npm install
+npm install --global webpack
+npm install --save-dev webpack-cli
 
-npm run build 
-( or npx webpack --config webpack.config.js)
+npm run build ( or npx webpack --config webpack.config.js)
